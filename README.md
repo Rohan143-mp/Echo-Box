@@ -62,7 +62,7 @@ pip install ttkbootstrap matplotlib wordcloud pillow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Rohan143-mp/echo-box.git
+git clone https://github.com/Rohan143-mp/Echo-Box.git
 cd echo-box
 ```
 
