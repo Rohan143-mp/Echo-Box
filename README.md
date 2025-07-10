@@ -8,7 +8,6 @@
 ![MIT License](https://img.shields.io/github/license/yourname/echo-box)
 
 ---
-
 ## 🔥 Features
 
 ✅ Connect to Gmail using IMAP  
