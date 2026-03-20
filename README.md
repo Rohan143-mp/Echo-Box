@@ -90,6 +90,7 @@ To connect successfully:
 echo-box/
 ├── Echo Box.py
 ├── screenshots/
+
 │   ├── 1.jpg
 │   ├── 2.jpg
 │   └── ...
