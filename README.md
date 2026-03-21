@@ -1,5 +1,6 @@
 # ✉️ Echo-Box – Smart Email Organizer & Analytics App
 
+
 > A desktop GUI tool that organizes, auto-replies, and analyzes emails using IMAP/SMTP protocols with modern visuals and rule-based automation.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
