@@ -83,6 +83,7 @@ To connect successfully:
 - If using 2FA: Use an [App Password](https://support.google.com/mail/answer/185833)
 
 ---
+##New Features
 
 
 ## 📁 Project Structure
