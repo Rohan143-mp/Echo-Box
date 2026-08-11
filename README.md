@@ -7,7 +7,6 @@
 ![Project](https://img.shields.io/badge/Mini%20Project-Email%20Automation-brightgreen)
 ![UI](https://img.shields.io/badge/GUI-ttkbootstrap-informational)
 ![MIT License](https://img.shields.io/github/license/yourname/echo-box)
-
 ---
 ## 🔥 Features
 
