@@ -17,7 +17,6 @@
 ✅ Search by subject keyword  
 ✅ Modern dark-themed GUI  
 ✅ Responsive sidebar navigation
-
 ---
 
 ## 📸 Screenshots
